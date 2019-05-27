@@ -1,2 +1,3 @@
 mine dabdabcoin!
-go to <boogaboo.ga> to mine dabdabcoins
+
+go to <boogaboo.ga/> to mine dabdabcoins
