@@ -1,6 +1,6 @@
-mine dabdabcoin!
-
-go to <http://boogaboo.ga/> boogaboo to mine dabdabcoins.
- Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins! Mine dabdabcoins!
-
- ![alt text](one dabdab coin.png)
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
