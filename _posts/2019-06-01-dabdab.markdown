@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Go mine dabdabcoins"
+date:   2019-06-01
+categories: banana
+---
+
+[This stupid website will amaze your mind!](https://boogaboo.ga) It is filled with amazing things! But best of all, you can mine dabdab coins! dabdabcoins is a crytocurrency with no value yet... to mine dabdabcoins, Go to <https://boogaboo.ga/>.
+
+![dabdabcoin](/iii/2019/06/01/dab.png)
