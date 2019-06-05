@@ -2,7 +2,7 @@
 layout: post
 title:  "Use SketchPad!"
 date:   2019-06-04
-categories: SketchPad
+categories: banana
 ---
 
 # What is SketchPad
