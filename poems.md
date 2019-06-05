@@ -17,7 +17,7 @@ Join in any people-games
 
 Then one foggy christmas night  
 Brayden went to say  
-"Bob's so yellow-bright  
+"Billy's so yellow-bright  
 Why don’t you be the sun tonight”
 
 Then how the reindeer loved him  

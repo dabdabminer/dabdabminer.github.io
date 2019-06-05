@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "what are inuit sunglasses"
-date:   2019-06-01
+title:  "What are Inuit sunglasses?"
+date:   2019-06-04
 categories: banana
 ---
 
-# lnuit sunglasses!
-You may be wondering now, what are inuit sun glasses? Inuit sunglasses are clevery designed glasses to protect your eyes from snow blindness.
+# Inuit sunglasses!
+You may be wondering now, what are Inuit sun glasses? Inuit sunglasses are clevery designed glasses to protect your eyes from snow blindness.
 
-These glass can be easily hand made and you can gmail me to get some inuit glasses. 
+These glasses can be easily handmade and you can gmail me to get some Inuit glasses. 
 
 ![snow goggles](/iii/2019/06/04/glasses.jpg)
