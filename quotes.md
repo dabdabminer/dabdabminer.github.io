@@ -8,4 +8,5 @@ permalink: /quotes/
 
 *"Suck my peepee"* - Jiarui
 
-*"I have something against yellow"* - Bill
+do you have something against yellow?
+*"yes"* - Bill
