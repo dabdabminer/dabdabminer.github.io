@@ -1,6 +1,7 @@
 ---
-title:Try prounoncing this word!
-date:2019-06-05
+layout: post
+title: Try prounoncing this word!
+date: 2019-06-05
 categories: banana
 ---
 
