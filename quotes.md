@@ -10,3 +10,5 @@ permalink: /quotes/
 
 do you have something against yellow?
 *"yes"* - Bill
+
+*I've lost my virginity* - Jiarui
