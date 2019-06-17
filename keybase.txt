@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dabdabcoin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dabdabco.ga
+  * I am dabdabcoin (https://keybase.io/dabdabcoin) on keybase.
+  * I have a public key with fingerprint 1516 12A7 EEB4 7684 7444  AFE9 C668 F750 1740 1A45
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c09ee8c68f7a934e419c6863429ccb7195d748a7a3004464ae43712a99a201d40a",
+      "fingerprint": "151612a7eeb476847444afe9c668f75017401a45",
+      "host": "keybase.io",
+      "key_id": "c668f75017401a45",
+      "kid": "0101c09ee8c68f7a934e419c6863429ccb7195d748a7a3004464ae43712a99a201d40a",
+      "uid": "7ba7c326ae058db81939af8ee1813b19",
+      "username": "dabdabcoin"
+    },
+    "service": {
+      "hostname": "dabdabco.ga",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1560789091,
+  "expire_in": 157680000,
+  "prev": "4fa893eab7075e24602452020d1d81cf2eb05e918d49116e349cc8053c0a492b",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJrSBRRFF4rNWWtCELLqJiQXmb3ztx53N0sk0qKIHuAhNlyZ+buOqzO
+rLuzlllQQmhW9pIwiB5Ghlr0IilCMNn8kUREpGFqIfVHjCCosB+73ZH6E/3scuFy
+zv2+73zncGIZ013pSTHVCzOL0fGk/qctUVdZao9Wy6mWXsN5arkgnXpohU4jti9o
+6JyHAxBADWBKFU1S/DLBAqIIYhZIAuKxpqkyxKIuI4XIRAAAIQkRigQZ8gRjwgOo
+I0C4XM5vmAEaDoUN02ayUIQSQ8iUqkiWFCQjhIifMl2nigigjAAkSGTEciviMJg5
+lURonmGxHAt8U/b+gf/PvqNTcrJKZE3gJUKBqOiqArGAiV+hFCpQUCF2gBEaNkkl
+ZWidqOxqlmFyh3M5lq82NOqM1unlL0xewKkSClu2pVkV7KPctkMRj0O0a0IOcj9V
+fb81fKph6myQjFFNwxHDMjkPZEjNNhxRKEpAVjDAMJejB0JGmPoMByGyEQN2nDq0
+mkkiP1GwQIkqA1mkPJIAj0Qe8ECHugI1P09VIFIMFR1hCCUqIDYxBYiCBgjCvMo5
+XVWZFucRmE0SYJIRI2ASOxqm3OHenr0zXEnprpTkac6CudLT5vxZO/l0aqL0Ytft
+RavO0hFpdGBPcd2KDfs6a7pmPkqWD6b1lTWPJU7Wvi5pr48V4smmIy0DQ+7HA0On
+LO+FsRgobbj2bCjeWFD3venb6j3c4rgtXd/8cNuX+c/fhUcGjvZ3DX4qgjdKs9Zu
+bFgyrW12Ser7yUk0tnW0o6/g47qJaHkbWu+90vGqMenzoejSeHPP4ODuFdWFicqc
+l7FOMX/TsdYfiV3Zm0vnfqhbc29b5hbvrCe+N3H3zpwPV29lnRkPccHR+Ntz2y/V
+9xVVTUjD+kp3a8r5R1uGvS/uzMsv27p2e292a0v910FzmdSwI+Pyp5zu8Z/Zl88u
+vOlGTQtOPLh/LXh3eXtK9y9NwT0/
+=7KOV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dabdabcoin
+
+==================================================================
