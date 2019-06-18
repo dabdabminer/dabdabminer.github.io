@@ -1,7 +1,7 @@
 ---
 layout: post
 title: scammers
-date 2019-06-18
+date: 2019-06-18
 categories: banana
 ---
 
