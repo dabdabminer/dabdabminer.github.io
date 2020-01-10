@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to plant bananas
-date: 2019-06-2019
+date: 20-06-2019
 categories: banana
 ---
 
